@@ -1,0 +1,16 @@
+
+.full-page{
+    background-color: black;
+}
+
+h1,h2{
+    color: white;
+}
+
+.form-control{
+    margin-left: 78%;
+    width: 20%;
+    height: 5%;
+    border-radius: 10px;
+
+}
